@@ -1,0 +1,10 @@
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\bin\Debug\prjPrecoCombustivel.exe.config
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\bin\Debug\prjPrecoCombustivel.exe
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\bin\Debug\prjPrecoCombustivel.pdb
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\obj\Debug\prjPrecoCombustivel.csproj.AssemblyReference.cache
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\obj\Debug\prjPrecoCombustivel.Form1.resources
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\obj\Debug\prjPrecoCombustivel.Properties.Resources.resources
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\obj\Debug\prjPrecoCombustivel.csproj.GenerateResource.cache
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\obj\Debug\prjPrecoCombustivel.csproj.CoreCompileInputs.cache
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\obj\Debug\prjPrecoCombustivel.exe
+D:\Lia Code Projects\C#\prjPrecoCombustivel\prjPrecoCombustivel\obj\Debug\prjPrecoCombustivel.pdb

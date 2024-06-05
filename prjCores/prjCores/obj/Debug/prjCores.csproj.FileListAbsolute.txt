@@ -1,0 +1,9 @@
+C:\LiaProjects\prjCores\prjCores\bin\Debug\prjCores.exe.config
+C:\LiaProjects\prjCores\prjCores\bin\Debug\prjCores.exe
+C:\LiaProjects\prjCores\prjCores\bin\Debug\prjCores.pdb
+C:\LiaProjects\prjCores\prjCores\obj\Debug\prjCores.csprojResolveAssemblyReference.cache
+C:\LiaProjects\prjCores\prjCores\obj\Debug\prjCores.frmCores.resources
+C:\LiaProjects\prjCores\prjCores\obj\Debug\prjCores.Properties.Resources.resources
+C:\LiaProjects\prjCores\prjCores\obj\Debug\prjCores.csproj.GenerateResource.Cache
+C:\LiaProjects\prjCores\prjCores\obj\Debug\prjCores.exe
+C:\LiaProjects\prjCores\prjCores\obj\Debug\prjCores.pdb

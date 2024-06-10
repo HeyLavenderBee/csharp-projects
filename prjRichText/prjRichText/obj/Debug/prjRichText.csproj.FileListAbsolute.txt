@@ -1,0 +1,9 @@
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\bin\Debug\prjRichText.exe.config
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\bin\Debug\prjRichText.exe
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\bin\Debug\prjRichText.pdb
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\obj\Debug\prjRichText.csprojResolveAssemblyReference.cache
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\obj\Debug\prjRichText.prjRichText.resources
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\obj\Debug\prjRichText.Properties.Resources.resources
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\obj\Debug\prjRichText.csproj.GenerateResource.Cache
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\obj\Debug\prjRichText.exe
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjRichText\prjRichText\obj\Debug\prjRichText.pdb

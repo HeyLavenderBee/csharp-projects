@@ -1,0 +1,9 @@
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\bin\Debug\prjFormatacaoDeCampos.exe.config
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\bin\Debug\prjFormatacaoDeCampos.exe
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\bin\Debug\prjFormatacaoDeCampos.pdb
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\obj\Debug\prjFormatacaoDeCampos.csprojResolveAssemblyReference.cache
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\obj\Debug\prjFormatacaoDeCampos.frmFormatacaoDeCampos.resources
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\obj\Debug\prjFormatacaoDeCampos.Properties.Resources.resources
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\obj\Debug\prjFormatacaoDeCampos.csproj.GenerateResource.Cache
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\obj\Debug\prjFormatacaoDeCampos.exe
+C:\Users\Lab0307\Downloads\csharp-projects-main\prjFormatacaoDeCampos\prjFormatacaoDeCampos\obj\Debug\prjFormatacaoDeCampos.pdb

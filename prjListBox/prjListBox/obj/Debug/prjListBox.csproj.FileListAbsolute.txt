@@ -1,0 +1,12 @@
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\bin\Debug\prjListBox.exe.config
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\bin\Debug\prjListBox.exe
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\bin\Debug\prjListBox.pdb
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\obj\Debug\prjListBox.csprojResolveAssemblyReference.cache
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\obj\Debug\prjListBox.ListBox.resources
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\obj\Debug\prjListBox.Properties.Resources.resources
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\obj\Debug\prjListBox.csproj.GenerateResource.Cache
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\obj\Debug\prjListBox.exe
+c:\users\lab0307\documents\visual studio 2012\Projects\prjListBox\prjListBox\obj\Debug\prjListBox.pdb
+D:\JU\2DS - TECNICO\DS\prjListBox\prjListBox\bin\Debug\prjListBox.exe.config
+D:\JU\2DS - TECNICO\DS\prjListBox\prjListBox\obj\Debug\prjListBox.exe
+D:\JU\2DS - TECNICO\DS\prjListBox\prjListBox\obj\Debug\prjListBox.pdb
